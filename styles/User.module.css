@@ -1,0 +1,13 @@
+.container {
+  padding: 20px;
+}
+
+.backBtn {
+  margin-bottom: 20px;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 0;
+}
